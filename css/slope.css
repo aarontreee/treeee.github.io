@@ -14,6 +14,10 @@ body{
 	overflow: hidden;
 }
 
+iframe {
+	z-index: 1;
+}
+
 nav#navb {
 	list-style: none;
 	float: right;
