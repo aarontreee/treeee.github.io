@@ -1,10 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost&family=Poppins&family=Roboto+Mono:wght@200&display=swap');
 
 body{
-    	background: rgb(102,102,102);
-	background: linear-gradient(90deg, rgba(102,102,102,1) 0%, rgba(111,111,111,1) 50%, rgba(66,66,66,1) 100%);
-	font-family: Roboto Mono;
-	color: white;
+    	background-color: #404040;
 }
 
 p {
