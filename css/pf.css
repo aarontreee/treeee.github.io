@@ -59,6 +59,10 @@ nav#navb a:hover {
 	font-family: 'Roboto Mono', sans-serif;
 }
 
+img {
+	pointer-events: none;
+}
+
 /* content */
 
 #treetab {
